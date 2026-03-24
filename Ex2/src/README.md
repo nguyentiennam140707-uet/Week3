@@ -1,0 +1,2 @@
+Nếu không override cho class Duck, thì lúc makesound sẽ print ra "Animal sound"
+Bởi vì lúc gọi hàm con (Duck), java không thấy hàm override nào bên trong, sẽ lập tức gọi lên lớp cha (phương thức ở lớp cha)
